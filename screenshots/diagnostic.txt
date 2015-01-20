@@ -1,0 +1,26 @@
+I/activityspy( 1896): onCreate event fired
+I/activityspy( 1896): onStart event fired
+I/activityspy( 1896): onResume event fired
+I/activityspy( 1896): onPause event fired
+I/activityspy( 1896): onStop event fired
+I/activityspy( 1896): onDestroy event fired
+E/activityspy( 1896): We're going down, Captain!
+I/activityspy( 1896): onCreate event fired
+I/activityspy( 1896): onStart event fired
+I/activityspy( 1896): onResume event fired
+I/activityspy( 1896): onPause event fired
+I/activityspy( 1896): onStop event fired
+I/activityspy( 1896): onDestroy event fired
+E/activityspy( 1896): We're going down, Captain!
+I/activityspy( 1896): onCreate event fired
+I/activityspy( 1896): onStart event fired
+I/activityspy( 1896): onResume event fired
+I/activityspy( 1896): onPause event fired
+I/activityspy( 1896): onStop event fired
+I/activityspy( 2262): onCreate event fired
+I/activityspy( 2262): onStart event fired
+I/activityspy( 2262): onResume event fired
+I/activityspy( 2262): onPause event fired
+I/activityspy( 2262): onStop event fired
+I/activityspy( 2262): onDestroy event fired
+E/activityspy( 2262): We're going down, Captain!
